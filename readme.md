@@ -11,7 +11,7 @@ Toby Dussek
 * 4:30 end
 
 Course assets here:
-- https://github.com/onionmccabbage/DataVizMonday
+- https://github.com/onionmccabbage/DataVizTuesday
 
 - Welcome and introductions
 - Introduction to Data Storytelling
