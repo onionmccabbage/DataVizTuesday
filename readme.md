@@ -15,12 +15,12 @@ Course assets here:
 
 - Welcome and introductions
 - Introduction to Data Storytelling
-- superstition -> guess -> data -> information -> knowledge & understanding > actionable
+- Superstition -> guess -> data -> information -> knowledge & understanding > actionable
 - Exploratory and Explanatory Data Analysis
-
-Non-linear story telling: not all eyes will follow the same path
-Patina - worn through use, expect things to be just so
-- speaks to avoiding pointless changes
+- Generation -> Collection -> Processing -> Storage ->
+Management -> Analysis -> Visualization -> Interpretation
+- Non-linear story telling: not all eyes will follow the same path
+- Patina: worn through use, expect things to be just so. This speaks to avoiding pointless changes
 
 Good bad and ugly
 - Rarely worth trying to squeeze in to an existing picture (disney)
