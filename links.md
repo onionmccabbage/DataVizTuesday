@@ -63,6 +63,10 @@ Perceiving colour through a language lens: a scoping review of experimental work
 
 https://www.cambridge.org/core/journals/language-and-cognition/article/perceiving-colour-through-a-language-lens-a-scoping-review-of-experimental-work-on-effects-of-language-on-colour-perception/F9B9524BEC2F067FC6D513DFCF5504D0
 
-BBC trust
+Information is Beautiful
+-  https://informationisbeautiful.net
+
+
+BBC trust metric
 - https://www.bbc.co.uk/aboutthebbc/documents/a-bbc-for-the-future.pdf
 

@@ -13,6 +13,9 @@ Toby Dussek
 Course assets here:
 - https://github.com/onionmccabbage/DataVizTuesday
 
+
+15/09/72
+
 - Welcome and introductions
 - Introduction to Data Storytelling
 - Superstition -> guess -> data -> information -> knowledge & understanding > actionable
@@ -26,6 +29,14 @@ Good bad and ugly
 - Rarely worth trying to squeeze in to an existing picture (disney)
 - always 'fess up to misleading viz (and avoid where poss)
 - Audiences may glance and ignore
+
+#### Data Problems
+- phone numbers: leading zero, + etc.
+- when humans are involved.... typo   
+- currency
+- date
+- outliers: non-exisiting or problematic
+- missing data
 
 - Review example data stories
 - Understanding Context and Audiences
